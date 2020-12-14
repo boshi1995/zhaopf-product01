@@ -7,5 +7,6 @@ public class Modify {
         System.out.println("新的修改222");
 	    System.out.println("刘冰阳到此一看……^O^");
         System.out.println("继续修改");
+        System.out.println("明天吃啥");
     }
 }
